@@ -14,7 +14,7 @@ gantt
     建立資料庫 :a5, after a4, 5d
     前端開發:a6,after a5, 15d
     後端開發:a7, after a5, 15d
-    程式測試 :a8, after a7, 10d
+    程式測試 :a8, after a6,after a7, 10d
     撰寫使用手冊 :a9, after a5, 15d
     使用者訓練 :a10, after a8, 10d
     使用者測試 : a11, after a10, 10d
