@@ -20,7 +20,7 @@ gantt
     使用者測試 : a11, after a10, 10d
 ```
 
-PERE圖
+PERT圖
 ![PERE](PERE.jpg)
 
 關鍵路徑
