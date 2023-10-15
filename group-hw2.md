@@ -1,7 +1,8 @@
 分配圖
 
 甘特圖
-'''mermaid
+
+```mermaid
 gantt
     title 小組專案管理作業
 
@@ -17,7 +18,7 @@ gantt
     撰寫使用手冊 :a9, after a5, 15d
     使用者訓練 :a10, after a8, 10d
     使用者測試 : a11, after a10, 10d
-'''
+```
 
 PERE圖
 
