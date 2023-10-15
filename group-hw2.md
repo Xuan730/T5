@@ -21,5 +21,6 @@ gantt
 ```
 
 PERE圖
+![PERT](PERT.jpg)
 
 關鍵路徑
