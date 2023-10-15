@@ -21,7 +21,7 @@ gantt
 ```
 
 PERT圖
-![PERE](PERE.jpg)
+![PERT](PERT.jpg)
 
 關鍵路徑
 1-2-3-4-5-7-8-9-10-11
