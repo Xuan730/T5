@@ -45,7 +45,7 @@
 
 
 ###**功能分解圖:**
-
+![功能分解圖](功能分解圖.png)
 
 ###**需求分析文字描述**
 
@@ -60,3 +60,4 @@
 ![需求服務](需求服務.png)
 
 ###**動態模擬畫面**
+<https://www.figma.com/file/vH9hKerAybb4F2KJvZOEWV/%E7%AC%AC%E4%BA%94%E7%B5%84%E5%AF%B5%E7%89%A9%E7%85%A7%E9%A1%A7App?type=design&node-id=0%3A1&mode=design&t=Ae52jvLCcopIAs4b-1>
