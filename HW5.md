@@ -1,3 +1,3 @@
 ### **UML類別圖** ### 
-[!UML](UML.png)
+![UML](UML.png)
 
