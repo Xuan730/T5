@@ -20,6 +20,7 @@ gantt
     撰寫使用手冊 :a9, after a5, 10d
     使用者訓練 :a10, after a8, 10d
     使用者測試 : a11, after a10, 10d
+    2024-1-10,
 ```
 
 PERT圖
