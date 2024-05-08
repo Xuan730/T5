@@ -16,10 +16,10 @@ gantt
     建立資料庫 :a5, after a4, 7d
     前端開發:a6,after a5, 140d
     後端開發:a7, after a5, 140d
-    程式測試 :a8, after a6、a7, 20d
-    撰寫使用手冊 :a9, after a5, 10d
-    使用者訓練 :a10, after a8, 10d
-    使用者測試 : a11, after a10, 10d
+    程式測試修改 :a8, after a6、a7, 20d
+    撰寫使用手冊 :a9, after a5, 7d
+    使用者訓練 :a10, after a8, 7d
+    使用者測試 : a11, after a10, 7d
 ```
 
 PERT圖
