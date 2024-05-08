@@ -6,9 +6,8 @@
 
 ```mermaid
 gantt
-    title 小組專案管理作業
+    title 甘特圖
 
-    section 任務
     研擬計畫 :a1, 2023-10-01, 15d
     任務分配 :a2, after a1, 5d
     資料收集 :a3, after a2 , 10d
